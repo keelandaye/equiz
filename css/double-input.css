@@ -1,0 +1,7 @@
+.double-input .form-control {
+    width: 50%;
+    border-right-width: 1px;
+}
+.double-input .form-control:focus {
+    border-right-width: 1px;
+}
